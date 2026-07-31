@@ -13,7 +13,7 @@
 ### 方式一：skills CLI（推荐）
 
 ```bash
-npx skills add <your-github-org>/seo-image-prompt
+npx skills add visualgptio/seo-image-prompt
 ```
 
 会自动装进 `.agents/skills/`，并软链一份到 `.claude/skills/`，兼容 Claude Code。
